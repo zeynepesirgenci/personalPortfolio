@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/zeynepesirgenci/personalPortfolio.git/static/css/main.e29fb958.css",
+    "main.js": "/zeynepesirgenci/personalPortfolio.git/static/js/main.039c767a.js",
+    "static/media/logo2.png": "/zeynepesirgenci/personalPortfolio.git/static/media/logo2.f3bbaf4bd487a0e45cbd.png",
+    "index.html": "/zeynepesirgenci/personalPortfolio.git/index.html",
+    "main.e29fb958.css.map": "/zeynepesirgenci/personalPortfolio.git/static/css/main.e29fb958.css.map",
+    "main.039c767a.js.map": "/zeynepesirgenci/personalPortfolio.git/static/js/main.039c767a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e29fb958.css",
+    "static/js/main.039c767a.js"
+  ]
+}
