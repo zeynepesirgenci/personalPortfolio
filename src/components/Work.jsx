@@ -3,7 +3,7 @@ import React from 'react';
 const Work = () => {
   return (
     <div
-      name='experience'
+      name='work'
       className='w-full min-h-screen bg-[#2c3e50] text-gray-300 flex items-center justify-center py-20 px-4'
       style={{ fontFamily: "'Poppins', sans-serif" }}
     >
